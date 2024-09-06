@@ -1,4 +1,8 @@
-## Hi there 👋
+![Header](./your-header-image-name.png)
+
+## Welcome to my GitHub Profile!
+
+I'm currently studying Engineering at McMaster University, aspiring to become a computer engineer and work in the semiconductor industry.
 
 <!--
 **6e69ck/6e69ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
