@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub Profile!
 
-I'm currently studying Engineering at McMaster University, aspiring to become a computer engineer and to work in the semiconductor industry.
+I'm currently studying Computer Engineering @ Mac, and I love digital design
 
 <!--
 **6e69ck/6e69ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
